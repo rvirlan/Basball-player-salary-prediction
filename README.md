@@ -1,4 +1,4 @@
-# Basball-player-salary-prediction
+# Baseball-player-salary-prediction
 This project has been based on analysis of real world dataset and the aim was to build a model for player salary.
 To achieve this I have used R and RMarkdown for the analysis.
 I have included quality of code including comments, clear layout and structure.
